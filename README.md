@@ -1,3 +1,3 @@
 # Apigiphy
 
-Consumiendo la api de giphy
+Consumiendo la api de giphy.
